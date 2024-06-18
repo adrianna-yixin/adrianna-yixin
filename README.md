@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianna-yixin" alt="adrianna-yixin" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://yixin-gong-portfolio.netlify.app/](https://yixin-gong-portfolio.netlify.app/)
+- 👩‍💻 All of my projects are available at [https://yixin-gong-portfolio.netlify.app/](https://yixin-gong-portfolio.netlify.app/)
 
 - 📫 How to reach me **adrianna.yixin@gmail.com**
 
