@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianna-yixin" alt="adrianna-yixin" /></a> </p>
 
-- 📫 How to reach me **adrianna.yixin@gmail.com**
+- 📫 How to reach me **elizabeth.y.gong@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
